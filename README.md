@@ -41,7 +41,8 @@
 ## 📌 Featured Projects
 - 🍽️ **Restaurant Sales Analysis** – EDA & business insights  
 - 🛒 **Market Basket Optimization** – ECLAT Algorithm  
-- 📰 **Real-Time Data Pipeline** – Kafka → Postgres → Python  
+- 📰 **Real-Time Data Pipeline** – Docker → Kafka → Postgres → Python
+- 📰 **Real-Time Data Pipeline** – Docker → Kafka → Snowflake → Python  
 - 🏬 **Customer Segmentation** – KMeans Clustering  
 - 📈 **Sales & Revenue Analysis** – Data-driven insights  
 ---
